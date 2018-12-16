@@ -1,4 +1,4 @@
-package com.example.amir.framlayouttest;
+package com.example.amir.CollapsingToolbar;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
